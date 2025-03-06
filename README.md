@@ -1,21 +1,23 @@
 # Hi there! 👋
 
-I’m Mari, a tech enthusiast with a Master's in Sociology and a background in Social Communications. I have experience in corporate communication and human resources, focusing on organizational culture, employee experience, and diversity and inclusion. I love working with people and exploring new ideas!
+I’m a Web Developer with a Master's in Sociology and a background in Corporate Communications and HR. My journey from organizational culture and diversity & inclusion to tech has given me a unique perspective on building human-centered digital experiences. I love working with people, solving problems, and exploring how technology can drive meaningful change.
 
-## 🔭 Current Projects
-- **Ironhack Web Development Bootcamp**: I finally decided to follow my passion and am on my way to becoming a developer.
+## 🔭 What I'm Working On
+- Developing full-stack applications using React, Node.js, and TypeScript.
+- Exploring software testing and accessibility best practices.
+- Building projects that merge sociology, technology, and user experience.
 
 ## 🌱 Learning and Interests
-- Enhancing my programming skills in JavaScript and other languages.
-- Exploring the intersection of sociology and technology.
-- Delving into topics related to organizational behavior and cultural dynamics.
+- Expanding my knowledge in backend development & databases.
+- Deepening my skills in testing.
+- Exploring the intersection of tech and social impact.
 
 ## 💬 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/mariana-victorino/)
-- Feel free to reach out if you’d like to collaborate or just chat about tech, sociology, or anything else!
+- I’d love to collaborate on frontend projects, accessibility-focused development, or anything that sparks innovation. Feel free to reach out!
 
 ## 📝 Fun Fact
-I was a chess player when I was younger. I played in regionals and other competitions, but now I'm retired and just play for fun!
+I was a competitive chess player and competed in regionals! These days, I play for fun, but the problem-solving mindset stuck with me.
 
 ---
 
